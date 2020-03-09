@@ -38,5 +38,4 @@ public class ChessPosition {
          return String.valueOf(arrayX[x]) + (y + 1);
     }
 
-
 }
